@@ -1,3 +1,4 @@
+# Before excelling, I value doing my utmost
 ### Hi there 👋
 
 
@@ -7,14 +8,10 @@
 ![jinsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=radical)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Department of Big Data Applications, Kyung Hee University
 - 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
