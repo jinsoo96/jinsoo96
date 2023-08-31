@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Department of Big Data Applications, Kyung Hee University
 - 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Data Science
 - 
 - 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
 
