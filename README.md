@@ -2,8 +2,11 @@
 ### Hi there 👋
 
 
-
-
+Name : Jin-Soo Kim
+Boucher Degree : Statistics (JeonBuk Univ.)
+Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.)
+Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning
+I love : Singing
 
 
 ![jinsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=radical)
