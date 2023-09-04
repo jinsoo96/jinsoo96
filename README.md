@@ -2,10 +2,14 @@
 ### Hi there 👋
 
 
-Name : Jin-Soo Kim
-Boucher Degree : Statistics (JeonBuk Univ.)
-Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.)
-Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning
+Name : Jin-Soo Kim  
+
+Boucher Degree : Statistics (JeonBuk Univ.)  
+
+Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.)  
+
+Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning  
+
 I love : Singing
 
 
