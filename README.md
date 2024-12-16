@@ -6,13 +6,11 @@
 
 - Boucher Degree : Statistics (JeonBuk Univ.)  
 
-- Master Degree : Bigdata Analysis Engeeniring Major (KyungHee Univ.)  
+- Master Degree : Bigdata Analytics Engeeniring Major (KyungHee Univ.)  
 
 - Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning  
 
-- I love : Singing
-
-- 🔭 I’m currently working on Department of Big Data Applications, Kyung Hee University
+- 🔭 I’m currently working on Department of Big Data Analytics, Kyung Hee University
   
 - 🌱 I’m currently learning Data Science
   
