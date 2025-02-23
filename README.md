@@ -2,11 +2,11 @@
 ### Hi there 👋
 
 
-- Name : Jin-Soo Kim  
-
-- Boucher Degree : Statistics (JeonBuk Univ.)  
+- Name : Jin-Soo Kim
 
 - Master Degree : Bigdata Analytics Engeeniring Major (KyungHee Univ.)  
+
+- Boucher Degree : Statistics (JeonBuk Univ.)  
 
 - Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning  
 
