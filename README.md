@@ -16,8 +16,6 @@
   
 - 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
 
-![jinsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=radical)  
-
 
 # Papers  
 
