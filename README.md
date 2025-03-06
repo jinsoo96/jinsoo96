@@ -2,19 +2,21 @@
 ### Hi there 👋
 
 
-- Name : Jin-Soo Kim
+- 📝 Name: Jin-Soo Kim
 
-- Master Degree : Bigdata Analytics Engeeniring Major (KyungHee Univ.)  
+- 🎓 Master Degree: Big Data Analytics Engineering Major (Kyung Hee University)
 
-- Boucher Degree : Statistics (JeonBuk Univ.)  
+- 🎓 Bachelor Degree: Statistics (Jeonbuk National University)
 
-- Interested in : Bigdata/ML/DL(Nature Language Processing & Long-Term Time Series Forcasting), Data Reduction & Lightweight deep learning  
+- 🔭 Current Position: I am currently working at LG Science Park as part of the LG CNS SINGLEX Strategy/Operations Team, where I am engaged in a Retrieval-Augmented Generation (RAG) development project.
 
-- 🔭 I’m currently working on Department of Big Data Analytics, Kyung Hee University
-  
-- 🌱 I’m currently learning Data Science
-  
+- 🌱 Academic Background: I have majored in Data Science and Statistics.
+
+- 🔍 Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, Data Reduction, and Lightweight Deep Learning.
+
 - 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
+  
+
 
 
 # Papers  
