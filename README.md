@@ -8,11 +8,11 @@
 
 - 🎓 Bachelor Degree: Statistics (Jeonbuk National University)
 
-- 🔭 Current Position: I am currently working at LG Science Park as part of the LG CNS SINGLEX Strategy/Operations Team, where I am engaged in a Retrieval-Augmented Generation (RAG) development project.
+- 🔭 Past Position: I am currently working at LG Science Park as part of the LG CNS SINGLEX Strategy/Operations Team, where I am engaged in a Retrieval-Augmented Generation (RAG) development project.
 
 - 🌱 Academic Background: I have majored in Data Science and Statistics.
 
-- 🔍 Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, Data Reduction, and Lightweight Deep Learning.
+- 🔍 Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, RAG.
 
 - 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
   
