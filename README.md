@@ -2,24 +2,26 @@
 ### Hi there 👋
 
 
-- 📝 Name: Jin-Soo Kim
+- 📝 Name: Kim Jin Soo
 
-- 🎓 Master Degree: Big Data Analytics Engineering Major (Kyung Hee University)
+- Master Degree: Big Data Analytics Engineering Major (Kyung Hee University)
 
-- 🎓 Bachelor Degree: Statistics (Jeonbuk National University)
+- Bachelor Degree: Statistics (Jeonbuk National University)
 
-- 🔭 Past Position: I am currently working at LG Science Park as part of the LG CNS SINGLEX Strategy/Operations Team, where I am engaged in a Retrieval-Augmented Generation (RAG) development project.
+- Past Position: I am currently working at LG Science Park as part of the LG CNS SINGLEX Strategy/Operations Team, where I am engaged in a Retrieval-Augmented Generation (RAG) development project.
 
-- 🌱 Academic Background: I have majored in Data Science and Statistics.
+- Academic Background: I have majored in Data Science and Statistics.
 
-- 🔍 Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, RAG.
+- Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, RAG.
 
-- 📫 How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
+- How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
   
 
 
 
 # Papers  
+
+- Kim, Y., Choi, J., Kim, J., & Yang, S. (2025). Predicting Sleep Quality and Analyzing Influencing Factors Using Wearable-Based Lifelog Data. Journal of Korea Electronic Commerce Association, 30(3), 1-19.
 
 - Bae, H., Kim, J., Yang, S., & Kim, T. (2024). Understanding Corporate Strategic Actions in Acquiring Treasury Shares: Application of Clustering Method. Journal of Intelligence and Information Research, 30(1), 37–58.  
 
@@ -29,6 +31,10 @@
 
 
 # Awards  
+
+### 2025
+
+- Excellence Paper Award, Spring Conference of the Korea Society of Electronic Commerce & Korea Smart Media Society
 
 ### 2024  
 
