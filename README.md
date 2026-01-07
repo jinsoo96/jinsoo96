@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-- 📝 Name: Kim Jin Soo
+- Name: Kim Jin Soo
 
 - Master Degree: Big Data Analytics Engineering Major (Kyung Hee University)
 
