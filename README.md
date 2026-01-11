@@ -1,5 +1,5 @@
 # Before excelling, I value doing my utmost
-### Hi there 👋
+### Hi there 
 
 
 - Name: Kim Jin Soo
