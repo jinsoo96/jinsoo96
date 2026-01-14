@@ -82,10 +82,6 @@
 - Grand Prize, Idea Competition at the Fall Conference of the Korea Knowledge Management Society
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoo96)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
