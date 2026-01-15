@@ -37,10 +37,9 @@
 
 - Interests: Big Data, Machine Learning (ML), Deep Learning (DL) with a focus on Natural Language Processing (NLP) and Long-Term Time Series Forecasting, RAG.
 
-- How to reach me: wlstn010203@gmail.com, wlstn010203@khu.ac.kr, xordbla@naver.com
-  
-
-
+- How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@gmail.com)](mailto:wlstn010203@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@khu.ac.kr)](mailto:wlstn010203@khu.ac.kr)
 
 # Papers  
 
