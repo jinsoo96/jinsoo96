@@ -39,9 +39,9 @@
 
 - How to reach me:
 
-  Generic Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@gmail.com)](mailto:wlstn010203@gmail.com)  
+  Generic G-mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@gmail.com)](mailto:wlstn010203@gmail.com)  
 
-  Kyung-Hee Univ Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@khu.ac.kr)](mailto:wlstn010203@khu.ac.kr) 
+  Kyung-Hee Univ G-mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstn010203@khu.ac.kr)](mailto:wlstn010203@khu.ac.kr) 
 
 # Papers  
 
