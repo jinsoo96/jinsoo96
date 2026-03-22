@@ -7,11 +7,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jinsoo96-181717?style=for-the-badge&logo=github)](https://github.com/jinsoo96)
 
-[![Gmail](https://img.shields.io/badge/Gmail-wlstn010203-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@gmail.com)
-
-[![KHU Mail](https://img.shields.io/badge/KHU-wlstn010203-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@khu.ac.kr)
 
 </div>
 
