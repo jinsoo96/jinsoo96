@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>M.S. Big Data Analytics Engineering — Kyung Hee University<br/>B.S. Statistics — Jeonbuk National University</td>
+    <td>M.S. Big Data Analytics Analytics — Kyung Hee University<br/>B.S. Statistics — Jeonbuk National University</td>
   </tr>
   <tr>
     <td>🏢 <b>Experience</b></td>
