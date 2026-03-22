@@ -2,13 +2,15 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Kim+Jin+Soo+%F0%9F%91%8B;AI+Developer+%7C+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Kim+Jin+Soo;AI+Developer+%7C+AI+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-jinsoo96-181717?style=for-the-badge&logo=github)](https://github.com/jinsoo96)
+
 [![Gmail](https://img.shields.io/badge/Gmail-wlstn010203-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@gmail.com)
+
 [![KHU Mail](https://img.shields.io/badge/KHU-wlstn010203-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@khu.ac.kr)
 
 </div>
@@ -99,10 +101,17 @@
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Collaboration**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -147,7 +156,9 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/wlstn010203@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@gmail.com)
+
 [![KHU](https://img.shields.io/badge/wlstn010203@khu.ac.kr-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@khu.ac.kr)
+
 [![GitHub](https://img.shields.io/badge/jinsoo96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinsoo96)
 
 </div>
