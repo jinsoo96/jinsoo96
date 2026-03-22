@@ -46,10 +46,8 @@
 |---------|-------------|-------|
 | [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant with 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | [**Prompt_Foundry**](https://github.com/jinsoo96/Prompt_Foundry) | Prompt engineering toolkit for LLM optimization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**HelPT**](https://github.com/jinsoo96/HelPT) | AI-powered health & fitness assistant | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**MixedLinear_LTSF**](https://github.com/jinsoo96/MixedLinear_Time_Series_Forecasting) | Long-term time series forecasting with mixed linear models | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Semiconductor_VM**](https://github.com/jinsoo96/Semiconductor_Yield_Virtual_Metrology) | Semiconductor yield prediction via virtual metrology | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Live_Commerce_NLP**](https://github.com/jinsoo96/Live_Commerce_Topic_Modeling) | Topic modeling & NLP analysis for live commerce | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
 
 ---
 
