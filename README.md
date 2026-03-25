@@ -1,73 +1,62 @@
 <div align="center">
-
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Kim+Jin+Soo;AI+Developer+%7C+AI+Engineer" alt="Typing SVG" />
 </a>
 
-<br/>
-
-
+<p>
+  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU" src="https://img.shields.io/badge/KHU_Mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 </div>
 
----
+I'm Jin Soo Kim, an AI engineer building multi-agent systems and agent cognition tools. I studied statistics and big data analytics, worked on RAG systems at LG CNS, and now I'm focused on giving AI agents a brain — personality, memory, emotion, and social intelligence.
 
-## 🧑‍💻 About Me
-
-<table>
-  <tr>
-    <td>🎓 <b>Education</b></td>
-    <td>M.S. Big Data Analytics Analytics — Kyung Hee University<br/>B.S. Statistics — Jeonbuk National University</td>
-  </tr>
-  <tr>
-    <td>🏢 <b>Experience</b></td>
-    <td>LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
-  </tr>
-  <tr>
-    <td>📍 <b>Location</b></td>
-    <td>Seoul, Republic of Korea</td>
-  </tr>
-  <tr>
-    <td>📧 <b>Email</b></td>
-    <td><a href="mailto:wlstn010203@gmail.com">wlstn010203@gmail.com</a> · <a href="mailto:wlstn010203@khu.ac.kr">wlstn010203@khu.ac.kr</a></td>
-  </tr>
-  <tr>
-    <td>🔬 <b>Interests</b></td>
-    <td>Multi-Agent AI Systems, RAG, NLP, Time Series Forecasting, Big Data</td>
-  </tr>
-</table>
+I created [Agethos](https://github.com/jinsoo96/agethos) (a brain for AI agents), [JINXUS](https://github.com/jinsoo96/JINXUS) (a 28-agent AI assistant), and [Mantis](https://github.com/PlateerLab/mantis) (an agent execution engine).
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Links |
 |---------|-------------|-------|
-| [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant with 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, reflection, autonomous autopilot mode | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| [**Mantis**](https://github.com/PlateerLab/mantis) | AI agent execution engine — plug in a model, get a working agent with tools, search, sandbox, and workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) |
+| [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant — 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) |
+| [**Mantis**](https://github.com/PlateerLab/mantis) | AI agent execution engine — plug in a model, get a working agent with tools, search, sandbox, and workflows | [![PyPI](https://img.shields.io/pypi/v/mantis-agent.svg)](https://pypi.org/project/mantis-agent/) |
 | [**Prompt_Foundry**](https://github.com/jinsoo96/Prompt_Foundry) | Prompt engineering toolkit for LLM optimization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**MixedLinear_LTSF**](https://github.com/jinsoo96/MixedLinear_Time_Series_Forecasting) | Long-term time series forecasting with mixed linear models | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**MixedLinear_LTSF**](https://github.com/jinsoo96/MixedLinear_Time_Series_Forecasting) | Long-term time series forecasting with mixed linear models | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-
----
-
-## 🏆 Awards
+### Awards
 
 | Year | Award | Conference |
 |------|-------|------------|
-| 2025 | 🥇 Excellence Paper Award | Korea Society of Electronic Commerce & Smart Media Society |
-| 2024 | 🥇 Excellence Paper Award | Korea Society of IT Services |
-| 2024 | 🏅 Best Paper Award | Korea Intelligent Information Systems Society |
-| 2024 | 🥇 Excellence Paper Award | Korean Academy of Management |
-| 2023 | 🥇 Excellence Paper Award | Korea Society of Information Systems |
-| 2023 | 🥈 Best Paper – Honorable Mention | KHU Big Data Graduate Student Conference |
-| 2023 | 🏅 Grand Prize | Korea Knowledge Management Society — Idea Competition |
+| 2025 | Excellence Paper Award | Korea Society of Electronic Commerce & Smart Media Society |
+| 2024 | Excellence Paper Award | Korea Society of IT Services |
+| 2024 | Best Paper Award | Korea Intelligent Information Systems Society |
+| 2024 | Excellence Paper Award | Korean Academy of Management |
+| 2023 | Excellence Paper Award | Korea Society of Information Systems |
+| 2023 | Best Paper -- Honorable Mention | KHU Big Data Graduate Student Conference |
+| 2023 | Grand Prize | Korea Knowledge Management Society -- Idea Competition |
 
----
+### Background
 
-## 🛠 Tech Stack
+<table>
+  <tr>
+    <td><b>Education</b></td>
+    <td>M.S. Big Data Analytics — Kyung Hee University / B.S. Statistics — Jeonbuk National University</td>
+  </tr>
+  <tr>
+    <td><b>Experience</b></td>
+    <td>LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>Multi-Agent AI Systems, Agent Cognition, RAG, NLP, Time Series Forecasting</td>
+  </tr>
+</table>
+
+### Tech Stack
 
 <div align="center">
 
@@ -104,16 +93,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Collaboration**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -144,17 +128,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jinsoo96&theme=github-light&hide_border=true&area=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinsoo96&theme=github-dark&hide_border=true&area=true" width="100%" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/wlstn010203@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@gmail.com)
-
-[![KHU](https://img.shields.io/badge/wlstn010203@khu.ac.kr-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlstn010203@khu.ac.kr)
-
-[![GitHub](https://img.shields.io/badge/jinsoo96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinsoo96)
 
 </div>
