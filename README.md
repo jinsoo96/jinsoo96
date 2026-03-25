@@ -11,9 +11,6 @@
 
 </div>
 
-I'm Jin Soo Kim, an AI engineer building multi-agent systems and agent cognition tools. I studied statistics and big data analytics, worked on RAG systems at LG CNS, and now I'm focused on giving AI agents a brain — personality, memory, emotion, and social intelligence.
-
-I created [Agethos](https://github.com/jinsoo96/agethos) (a brain for AI agents), [JINXUS](https://github.com/jinsoo96/JINXUS) (a 28-agent AI assistant), and [Mantis](https://github.com/PlateerLab/mantis) (an agent execution engine).
 
 ---
 
