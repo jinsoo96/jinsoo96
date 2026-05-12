@@ -1,15 +1,36 @@
 <div align="center">
+
+# Hi, I'm Jinsoo Kim
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Kim+Jin+Soo;" alt="Typing SVG" />
+  <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=Multi-Agent+AI+Engineer;Agent+Cognition+Architect;GraphRAG+Researcher;LLM+Harness+Builder;Open+Source+Contributor" />
 </a>
 
+Building multi-agent AI systems with cognition, memory, and ontology-grounded retrieval.
+
 <p>
-  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU" src="https://img.shields.io/badge/KHU_Mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-0E8A16?style=flat" />
+  <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-6F42C1?style=flat" />
+  <img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-0969DA?style=flat" />
+</p>
+
+<p>
+  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU" src="https://img.shields.io/badge/KHU_Mail-8B0000?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 </div>
+
+---
+
+## Focus
+
+**Multi-agent systems:** agent cognition (OCEAN + PAD + Hebbian), harness execution engines, hierarchical orchestration.  
+**RAG and knowledge graphs:** GraphRAG with PPR retrieval, ontology-grounded search, document AI pipelines.  
+**Open source and research:** xgen-harness / Agethos / Mantis on PyPI, multi-award academic publications.
 
 ---
 
