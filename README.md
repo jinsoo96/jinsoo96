@@ -3,7 +3,7 @@
 # Hi, I'm Jinsoo Kim
 
 <a href="https://git.io/typing-svg">
-  <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=Multi-Agent+AI+Engineer;Agent+Cognition+Architect;GraphRAG+Researcher;LLM+Harness+Builder;Open+Source+Contributor" />
+  <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=AI+Engineer;Agent+Cognition+Architect;Agent+Researcher;LLM+Harness+Builder;Open+Source+Contributor" />
 </a>
 
 Building multi-agent AI systems with cognition, memory, and ontology-grounded retrieval.
