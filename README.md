@@ -9,8 +9,8 @@
 Building multi-agent AI systems with cognition, memory, and ontology-grounded retrieval.
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat" />
   <img alt="RAG" src="https://img.shields.io/badge/RAG-0E8A16?style=flat" />
   <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-6F42C1?style=flat" />
   <img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-0969DA?style=flat" />
@@ -19,9 +19,9 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 </p>
 
 <p>
-  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU" src="https://img.shields.io/badge/KHU_Mail-8B0000?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat"></a>
+  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU" src="https://img.shields.io/badge/KHU_Mail-8B0000?style=flat"></a>
+  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat"></a>
 </p>
 
 </div>
@@ -30,9 +30,9 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 ## Focus
 
-**Multi-agent systems:** agent cognition (OCEAN + PAD + Hebbian), harness execution engines, hierarchical orchestration.  
-**RAG and knowledge graphs:** GraphRAG with PPR retrieval, ontology-grounded search, document AI pipelines.  
-**Open source and research:** xgen-omnifuse / xgen-harness / Agethos / Mantis on PyPI, multi-award academic publications.
+**Multi-agent systems:** agent cognition (OCEAN + PAD + Hebbian), harness execution engines, and **forge engineering** — agents that rewrite their own harness under benchmark-gated control.  
+**RAG and knowledge graphs:** one-shot **GraphRAG**, **ontology** build + search toolkits, ontology-grounded retrieval, document AI pipelines.  
+**Open source and research:** xgen-ontology / xgen-omnifuse / xgen-harness / Agethos on PyPI, multi-award academic publications.
 
 ---
 
@@ -45,7 +45,7 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 | [**xgen-harness**](https://github.com/jinsoo96/xgen-harness-executor) | Declarative LLM agent **execution engine** (harness engineering) — declare a `HarnessConfig`, get a 10-stage pipeline. Multi-provider, capability-based tool matching, compile workflows to installable MCP wheels | [![PyPI](https://img.shields.io/pypi/v/xgen-harness.svg)](https://pypi.org/project/xgen-harness/) |
 | [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant — 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) |
 | [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) |
-| [**Prompt_Foundry**](https://github.com/jinsoo96/Prompt_Foundry) | Prompt engineering toolkit for LLM optimization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**forge-engineering**](https://github.com/jinsoo96/forge-engineering) | **Forge Engineering** — a meta-engineering discipline *above* harness engineering: agents that rewrite their own harness under versioned, benchmark-gated control | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ### Awards
 
