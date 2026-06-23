@@ -30,7 +30,7 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 ## Focus
 
-**Multi-agent systems:** agent cognition (OCEAN + PAD + Hebbian), harness execution engines, and **forge engineering** — agents that rewrite their own harness under benchmark-gated control.  
+**Multi-agent systems:** agent cognition (persona, emotion, memory, theory-of-mind), harness execution engines, and **forge engineering** — agents that rewrite their own harness under benchmark-gated control.  
 **RAG and knowledge graphs:** one-shot **GraphRAG**, **ontology** build + search toolkits, ontology-grounded retrieval, document AI pipelines.  
 **Open source and research:** xgen-ontology / xgen-omnifuse / xgen-harness / Agethos on PyPI, multi-award academic publications.
 
@@ -68,7 +68,7 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
   </tr>
   <tr>
     <td><b>Experience</b></td>
-    <td>LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
+    <td>Plateer — AI/LLM Engineer (current), building agent harness engines & ontology GraphRAG · LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
   </tr>
   <tr>
     <td><b>Interests</b></td>
@@ -139,14 +139,6 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jinsoo96&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jinsoo96&theme=default&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=jinsoo96&theme=github-dark-blue&hide_border=true" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jinsoo96&theme=github-dark&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jinsoo96&theme=github-light&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinsoo96&theme=github-dark&hide_border=true&area=true" width="100%" />
 </picture>
 
 </div>
