@@ -14,6 +14,8 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
   <img alt="RAG" src="https://img.shields.io/badge/RAG-0E8A16?style=flat" />
   <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-6F42C1?style=flat" />
   <img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-0969DA?style=flat" />
+  <img alt="Ontology" src="https://img.shields.io/badge/Ontology-1C7C54?style=flat" />
+  <img alt="Harness Engineering" src="https://img.shields.io/badge/Harness_Engineering-B7472A?style=flat" />
 </p>
 
 <p>
@@ -30,7 +32,7 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 **Multi-agent systems:** agent cognition (OCEAN + PAD + Hebbian), harness execution engines, hierarchical orchestration.  
 **RAG and knowledge graphs:** GraphRAG with PPR retrieval, ontology-grounded search, document AI pipelines.  
-**Open source and research:** xgen-harness / Agethos / Mantis on PyPI, multi-award academic publications.
+**Open source and research:** xgen-omnifuse / xgen-harness / Agethos / Mantis on PyPI, multi-award academic publications.
 
 ---
 
@@ -38,7 +40,8 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [**xgen-harness**](https://github.com/jinsoo96/xgen-harness-executor) | Declarative LLM agent execution engine — declare a `HarnessConfig`, get a 10-stage pipeline. Multi-provider, capability-based tool matching, compile workflows to installable MCP wheels | [![PyPI](https://img.shields.io/pypi/v/xgen-harness.svg)](https://pypi.org/project/xgen-harness/) |
+| [**xgen-omnifuse**](https://github.com/PlateerLab/xgen-omnifuse) | Backend-agnostic one-shot **GraphRAG** — fuses vector + graph (label / class enumeration / relation) seeds with MMR diversity into a single synthesis; zero-infra (in-memory BM25) or any SPARQL/Fuseki. Plus **Vault**, an omnifuse-native memory (fuse / surface). Extracted from production **ontology** GraphRAG | [![PyPI](https://img.shields.io/pypi/v/xgen-omnifuse.svg)](https://pypi.org/project/xgen-omnifuse/) |
+| [**xgen-harness**](https://github.com/jinsoo96/xgen-harness-executor) | Declarative LLM agent **execution engine** (harness engineering) — declare a `HarnessConfig`, get a 10-stage pipeline. Multi-provider, capability-based tool matching, compile workflows to installable MCP wheels | [![PyPI](https://img.shields.io/pypi/v/xgen-harness.svg)](https://pypi.org/project/xgen-harness/) |
 | [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant — 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) |
 | [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) |
 | [**MixedLinear_LTSF**](https://github.com/jinsoo96/MixedLinear_Time_Series_Forecasting) | Long-term time series forecasting with mixed linear models | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
