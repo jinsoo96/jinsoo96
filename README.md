@@ -68,8 +68,8 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
   </tr>
   <tr>
     <td><b>Experience</b></td>
-    <td>Plateer — AI/LLM Engineer (current), building agent harness engines & ontology GraphRAG    
-        FDE (Forward Deployed Engineer) LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
+    <td>Plateer — AI/LLM Engineer (current), building agent harness engines & ontology GraphRAG  
+        Shaveron — FDE (Forward Deployed Engineer) LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
   </tr>
   <tr>
     <td><b>Interests</b></td>
