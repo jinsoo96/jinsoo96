@@ -37,17 +37,17 @@ Building ontology-grounded knowledge graphs and one-shot GraphRAG — plus the m
 
 ### Ontology engineering — a few specifics
 
-- **Taxonomy induction that doesn't need an LLM call**: Korean Hearst-pattern hypernym discovery gated by morphological tags (not regex over surface text), plus head-noun compound decomposition for is-a hierarchies straight out of raw documents and tables.
-- **Table-to-ontology, foreign-key aware**: star-schema fact/dimension separation; FK direction resolved from the destination table's actual primary key, not just value-set overlap (naive overlap-based FK detection false-positives badly on sequential IDs).
-- **Retrieval that's actually adaptive**: dynamic score-distribution cutoff in place of a fixed top-k, combined with MMR diversity re-ranking, so a handful of decisive minority/contradicting evidence chunks survive instead of being crowded out by near-duplicate top hits.
-- **Backend-agnostic by construction**: a zero-dependency in-memory graph store as the default, upgrading to any SPARQL 1.1 store (Fuseki, GraphDB, Blazegraph, Virtuoso) or a relational-native store with no call-site changes.
+- **Taxonomy induction, no LLM call**: Korean Hearst-pattern hypernym discovery + head-noun compound decomposition, straight out of raw documents and tables.
+- **FK-aware table-to-ontology**: star-schema fact/dimension split; FK direction resolved from the actual primary key, not naive value-overlap.
+- **Adaptive retrieval**: dynamic score-cutoff (not fixed top-k) + MMR diversity, so minority/contradicting evidence survives.
+- **Backend-agnostic**: zero-dep in-memory graph by default, drop-in to any SPARQL 1.1 store.
 
 ### Multi-agent & harness engineering — a few specifics
 
-- **Agent cognition modeled, not scripted**: OCEAN personality and PAD (pleasure-arousal-dominance) emotion state that actually shape downstream behavior, a Hebbian-learning memory stream, and vicarious (observation-based) learning — an agent's disposition shifts from what it experiences instead of staying a static system prompt.
-- **Harness execution as a declared pipeline**: a single `HarnessConfig` compiles to a fixed 10-stage execution pipeline — multi-provider LLM routing, capability-based tool matching — and a workflow itself compiles down to an installable MCP wheel, so behavior differences live in config, not hand-wired glue code per project.
-- **Forge engineering, a level above harness engineering**: agents that rewrite their own harness configuration under versioned, benchmark-gated control, so a self-modification only ships once it's measurably better on held-out tasks, not merely different.
-- **Multi-agent orchestration at scale**: a virtual "pixel office" of 28 specialized agents sharing 225 tools, coordinating on tasks autonomously rather than one agent working a static tool list.
+- **Agent cognition (Agethos)**: OCEAN personality + PAD emotion driving actual behavior, Hebbian memory, vicarious learning.
+- **Multi-agent debate (agent-colosseum)**: agents debate/red-team/peer-review each other, benchmarked against single-agent baselines.
+- **Harness engineering**: a declared `HarnessConfig` compiles to a 10-stage pipeline, workflows compile to installable MCP wheels.
+- **Forge engineering**: agents that rewrite their own harness config under versioned, benchmark-gated control.
 
 ---
 
@@ -59,9 +59,7 @@ Building ontology-grounded knowledge graphs and one-shot GraphRAG — plus the m
 | [**js-omnifuse**](https://github.com/jinsoo96/js-omnifuse) | Backend-agnostic one-shot **GraphRAG** — fuses vector + graph (label / class enumeration / relation) seeds with MMR diversity into a single synthesis; zero-infra (in-memory BM25) or any SPARQL/Fuseki. Plus **Vault**, an omnifuse-native memory (fuse / surface). The search half of js-ontology-build, extracted standalone. Published on PyPI as `xgen-omnifuse`. Source-available, all rights reserved | [![PyPI](https://img.shields.io/pypi/v/xgen-omnifuse.svg)](https://pypi.org/project/xgen-omnifuse/) [![License](https://img.shields.io/badge/license-source--available-blue)](https://github.com/jinsoo96/js-omnifuse/blob/main/LICENSE) |
 | [**xgen-harness**](https://github.com/jinsoo96/xgen-harness-executor) | Declarative LLM agent **execution engine** (harness engineering) — declare a `HarnessConfig`, get a 10-stage pipeline. Multi-provider, capability-based tool matching, compile workflows to installable MCP wheels | [![PyPI](https://img.shields.io/pypi/v/xgen-harness.svg)](https://pypi.org/project/xgen-harness/) |
 | [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant — 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) |
-| [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) |
-| [**agent-colosseum**](https://github.com/jinsoo96/agent-colosseum) | Provider-agnostic framework for multi-agent debate, red-teaming, and peer review, benchmarked against single-agent baselines | [![PyPI](https://img.shields.io/pypi/v/agent-colosseum.svg)](https://pypi.org/project/agent-colosseum/) |
-| [**forge-engineering**](https://github.com/jinsoo96/forge-engineering) | **Forge Engineering** — a meta-engineering discipline *above* harness engineering: agents that rewrite their own harness under versioned, benchmark-gated control | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) || [**forge-engineering**](https://github.com/jinsoo96/forge-engineering) | **Forge Engineering** — a meta-engineering discipline *above* harness engineering: agents that rewrite their own harness under versioned, benchmark-gated control | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ### Awards
 
