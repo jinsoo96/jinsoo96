@@ -42,6 +42,13 @@ Building ontology-grounded knowledge graphs and one-shot GraphRAG — plus the m
 - **Retrieval that's actually adaptive**: dynamic score-distribution cutoff in place of a fixed top-k, combined with MMR diversity re-ranking, so a handful of decisive minority/contradicting evidence chunks survive instead of being crowded out by near-duplicate top hits.
 - **Backend-agnostic by construction**: a zero-dependency in-memory graph store as the default, upgrading to any SPARQL 1.1 store (Fuseki, GraphDB, Blazegraph, Virtuoso) or a relational-native store with no call-site changes.
 
+### Multi-agent & harness engineering — a few specifics
+
+- **Agent cognition modeled, not scripted**: OCEAN personality and PAD (pleasure-arousal-dominance) emotion state that actually shape downstream behavior, a Hebbian-learning memory stream, and vicarious (observation-based) learning — an agent's disposition shifts from what it experiences instead of staying a static system prompt.
+- **Harness execution as a declared pipeline**: a single `HarnessConfig` compiles to a fixed 10-stage execution pipeline — multi-provider LLM routing, capability-based tool matching — and a workflow itself compiles down to an installable MCP wheel, so behavior differences live in config, not hand-wired glue code per project.
+- **Forge engineering, a level above harness engineering**: agents that rewrite their own harness configuration under versioned, benchmark-gated control, so a self-modification only ships once it's measurably better on held-out tasks, not merely different.
+- **Multi-agent orchestration at scale**: a virtual "pixel office" of 28 specialized agents sharing 225 tools, coordinating on tasks autonomously rather than one agent working a static tool list.
+
 ---
 
 ### Featured Projects
