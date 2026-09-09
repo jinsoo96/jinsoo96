@@ -8,7 +8,7 @@
 
 Building ontology-grounded knowledge graphs and ontology search algorithm.   
 
-Plus Agent env researcher, such as multi-agent harnesses that run on them.
+Agent env researcher, such as multi-agent harnesses/forge/loop that run on them.
 
 <p>
   <img alt="Ontology" src="https://img.shields.io/badge/Ontology-1C7C54?style=flat" />
