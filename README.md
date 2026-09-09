@@ -3,19 +3,20 @@
 # Hi, I'm Jinsoo Kim
 
 <a href="https://git.io/typing-svg">
-  <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=AI+Engineer;Agent+Cognition+Architect;Agent+Researcher;LLM+Harness+Builder;Open+Source+Contributor" />
+  <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=Ontology+Engineer;GraphRAG+%26+Knowledge-Graph+Architect;Agent+Cognition+Researcher;LLM+Harness+Builder;Open-Source+Maintainer" />
 </a>
 
-Building multi-agent AI systems with cognition, memory, and ontology-grounded retrieval.
+Building ontology-grounded knowledge graphs and one-shot GraphRAG — plus the multi-agent harnesses that run on them.
 
 <p>
+  <img alt="Ontology" src="https://img.shields.io/badge/Ontology-1C7C54?style=flat" />
+  <img alt="Knowledge Graph" src="https://img.shields.io/badge/Knowledge_Graph-2F6F4E?style=flat" />
+  <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-6F42C1?style=flat" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-0E8A16?style=flat" />
+  <img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-0969DA?style=flat" />
+  <img alt="Harness Engineering" src="https://img.shields.io/badge/Harness_Engineering-B7472A?style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat" />
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-0E8A16?style=flat" />
-  <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-6F42C1?style=flat" />
-  <img alt="Multi-Agent" src="https://img.shields.io/badge/Multi--Agent-0969DA?style=flat" />
-  <img alt="Ontology" src="https://img.shields.io/badge/Ontology-1C7C54?style=flat" />
-  <img alt="Harness Engineering" src="https://img.shields.io/badge/Harness_Engineering-B7472A?style=flat" />
 </p>
 
 <p>
@@ -30,9 +31,16 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 ## Focus
 
+**Ontology & knowledge graphs:** building backend-agnostic **ontology / KG toolkits** end to end — document and tabular extraction, entity resolution, predicate governance, dedup, is-a hierarchy induction, quality scoring — then retrieving over them with one-shot **GraphRAG** (vector + graph-label + class-enumeration fusion, MMR diversity, adaptive top-k instead of fixed-k). Zero-infra by default, any SPARQL 1.1 store when you outgrow that.  
 **Multi-agent systems:** agent cognition (persona, emotion, memory, theory-of-mind), harness execution engines, and **forge engineering** — agents that rewrite their own harness under benchmark-gated control.  
-**RAG and knowledge graphs:** one-shot **GraphRAG**, **ontology** build + search toolkits, ontology-grounded retrieval, document AI pipelines.  
-**Open source and research:** xgen-ontology / xgen-omnifuse / xgen-harness / Agethos on PyPI, multi-award academic publications.
+**Open source and research:** js-ontology-build / js-omnifuse / xgen-harness / Agethos on PyPI, multi-award academic publications.
+
+### Ontology engineering — a few specifics
+
+- **Taxonomy induction that doesn't need an LLM call**: Korean Hearst-pattern hypernym discovery gated by morphological tags (not regex over surface text), plus head-noun compound decomposition for is-a hierarchies straight out of raw documents and tables.
+- **Table-to-ontology, foreign-key aware**: star-schema fact/dimension separation; FK direction resolved from the destination table's actual primary key, not just value-set overlap (naive overlap-based FK detection false-positives badly on sequential IDs).
+- **Retrieval that's actually adaptive**: dynamic score-distribution cutoff in place of a fixed top-k, combined with MMR diversity re-ranking, so a handful of decisive minority/contradicting evidence chunks survive instead of being crowded out by near-duplicate top hits.
+- **Backend-agnostic by construction**: a zero-dependency in-memory graph store as the default, upgrading to any SPARQL 1.1 store (Fuseki, GraphDB, Blazegraph, Virtuoso) or a relational-native store with no call-site changes.
 
 ---
 
@@ -40,8 +48,8 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [**xgen-omnifuse**](https://github.com/PlateerLab/xgen-omnifuse) | Backend-agnostic one-shot **GraphRAG** — fuses vector + graph (label / class enumeration / relation) seeds with MMR diversity into a single synthesis; zero-infra (in-memory BM25) or any SPARQL/Fuseki. Plus **Vault**, an omnifuse-native memory (fuse / surface). Extracted from production **ontology** GraphRAG | [![PyPI](https://img.shields.io/pypi/v/xgen-omnifuse.svg)](https://pypi.org/project/xgen-omnifuse/) |
-| [**xgen-ontology**](https://github.com/jinsoo96/xgen-ontology) | Backend-agnostic **ontology / knowledge-graph toolkit** — build a clean KG from documents or tables (extract / entity-resolution / dedup / is-a induction / quality), then search it with one-shot **GraphRAG**. Zero infra (in-memory), any SPARQL store. The BUILD half to omnifuse's search | [![PyPI](https://img.shields.io/pypi/v/xgen-ontology.svg)](https://pypi.org/project/xgen-ontology/) |
+| [**js-ontology-build**](https://github.com/jinsoo96/js-ontology-build) | Backend-agnostic **ontology / knowledge-graph toolkit** — parse documents or tables, build a clean KG (entity resolution, predicate governance, dedup, is-a hierarchy induction, quality scoring, community detection), then search it with one-shot **GraphRAG**. Zero infra by default (pure-Python in-memory), loads into any SPARQL 1.1 store. Published on PyPI as `xgen-ontology`. Source-available, all rights reserved | [![PyPI](https://img.shields.io/pypi/v/xgen-ontology.svg)](https://pypi.org/project/xgen-ontology/) [![License](https://img.shields.io/badge/license-source--available-blue)](https://github.com/jinsoo96/js-ontology-build/blob/main/LICENSE) |
+| [**js-omnifuse**](https://github.com/jinsoo96/js-omnifuse) | Backend-agnostic one-shot **GraphRAG** — fuses vector + graph (label / class enumeration / relation) seeds with MMR diversity into a single synthesis; zero-infra (in-memory BM25) or any SPARQL/Fuseki. Plus **Vault**, an omnifuse-native memory (fuse / surface). The search half of js-ontology-build, extracted standalone. Published on PyPI as `xgen-omnifuse`. Source-available, all rights reserved | [![PyPI](https://img.shields.io/pypi/v/xgen-omnifuse.svg)](https://pypi.org/project/xgen-omnifuse/) [![License](https://img.shields.io/badge/license-source--available-blue)](https://github.com/jinsoo96/js-omnifuse/blob/main/LICENSE) |
 | [**xgen-harness**](https://github.com/jinsoo96/xgen-harness-executor) | Declarative LLM agent **execution engine** (harness engineering) — declare a `HarnessConfig`, get a 10-stage pipeline. Multi-provider, capability-based tool matching, compile workflows to installable MCP wheels | [![PyPI](https://img.shields.io/pypi/v/xgen-harness.svg)](https://pypi.org/project/xgen-harness/) |
 | [**JINXUS**](https://github.com/jinsoo96/JINXUS) | Hyper-personalized multi-agent AI assistant — 28 agents, virtual pixel office, 225 tools, autonomous execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) |
 | [**Agethos**](https://github.com/jinsoo96/agethos) | A brain for AI agents — OCEAN personality, PAD emotion, memory stream, Hebbian learning, vicarious learning, cross-platform export | [![PyPI](https://img.shields.io/pypi/v/agethos.svg)](https://pypi.org/project/agethos/) |
@@ -68,7 +76,7 @@ Building multi-agent AI systems with cognition, memory, and ontology-grounded re
   </tr>
   <tr>
     <td><b>Experience</b></td>
-    <td>Plateer — AI/LLM Engineer (current), building agent harness engines & ontology GraphRAG  
+    <td>Plateer — AI/LLM Engineer (current); ontology engineering & GraphRAG (knowledge-graph build pipelines, backend-agnostic retrieval) and agent harness execution engines  
         Shaveron — FDE (Forward Deployed Engineer) LG CNS SINGLEX Strategy/Operations Team @ LG Science Park — RAG Development</td>
   </tr>
   <tr>
