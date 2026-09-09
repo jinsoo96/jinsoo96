@@ -6,8 +6,9 @@
   <img height="28" alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&height=28&lines=Ontology+Engineer;GraphRAG+%26+Knowledge-Graph+Architect;Agent+Cognition+Researcher;LLM+Harness+Builder;Open-Source+Maintainer" />
 </a>
 
-Building ontology-grounded knowledge graphs and ontology search algorithm. 
-Agent env, such as multi-agent harnesses that run on them.
+Building ontology-grounded knowledge graphs and ontology search algorithm.   
+
+Plus Agent env researcher, such as multi-agent harnesses that run on them.
 
 <p>
   <img alt="Ontology" src="https://img.shields.io/badge/Ontology-1C7C54?style=flat" />
