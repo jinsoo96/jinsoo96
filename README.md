@@ -135,32 +135,25 @@ Then I ship them into banking, capital and retail customers' on-prem environment
 
 ---
 
-### GitHub Stats
+### Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jinsoo96&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/stats-light.svg" />
+  <img height="180" alt="Activity in the last 12 months" src="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/stats-dark.svg" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoo96&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoo96&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoo96&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jinsoo96&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jinsoo96&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=jinsoo96&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/langs-light.svg" />
+  <img height="180" alt="Most used languages" src="https://raw.githubusercontent.com/jinsoo96/jinsoo96/stats/langs-dark.svg" />
 </picture>
 
 </div>
 
+<br/>
 
 <div align="center">
   <picture>
