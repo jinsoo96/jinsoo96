@@ -2,17 +2,17 @@
 
 # Hi, I'm Jinsoo Kim
 
-<img alt="AI Engineer · Forward Deployed Engineer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=460&height=30&lines=AI+Engineer+%C2%B7+Forward+Deployed+Engineer;Ontology+Engine+%26+GraphRAG+Search;Agent+Harness+Engineering;LLM+Evals+%26+Guardrails;Enterprise+On-premise+AI+Delivery" />
+<img alt="AI Engineer · Forward Deployed Engineer" src="assets/typing.svg" />
 
 I build ontology engines and GraphRAG search, and agent harnesses that own judging, retries and memory.<br/>
 Then I ship them into banking, capital and retail customers' On-premise environments and measure them there.
 
 <p>
-  <a href="https://blog.js-96.com"><img alt="Tech Blog" src="https://img.shields.io/badge/Tech_Blog-2B6CF6?style=flat-square" /></a>
-  <a href="https://blog.js-96.com/cv/"><img alt="CV" src="https://img.shields.io/badge/CV-2B6CF6?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/jinsoo-kim-942438301/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2B6CF6?style=flat-square" /></a>
-  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-2B6CF6?style=flat-square" /></a>
-  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU Mail" src="https://img.shields.io/badge/KHU_Mail-2B6CF6?style=flat-square" /></a>
+  <a href="https://blog.js-96.com"><img alt="Tech Blog" src="assets/badges/link-blog.svg" /></a>
+  <a href="https://blog.js-96.com/cv/"><img alt="CV" src="assets/badges/link-cv.svg" /></a>
+  <a href="https://www.linkedin.com/in/jinsoo-kim-942438301/"><img alt="LinkedIn" src="assets/badges/link-linkedin.svg" /></a>
+  <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="assets/badges/link-gmail.svg" /></a>
+  <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU Mail" src="assets/badges/link-khu.svg" /></a>
 </p>
 
 </div>
@@ -47,15 +47,15 @@ Statistics, machine learning and deep learning research from my M.S. work, mainl
 
 ## Featured Projects
 
-- **[xgen-omnifuse](https://github.com/jinsoo96/js-omnifuse)** &nbsp;[![PyPI](https://img.shields.io/pypi/v/xgen-omnifuse?style=flat-square&label=PyPI&color=2B6CF6&labelColor=30363d)](https://pypi.org/project/xgen-omnifuse/)<br/>
+- **[xgen-omnifuse](https://github.com/jinsoo96/js-omnifuse)** &nbsp;[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/xgen-omnifuse/)<br/>
   Backend-agnostic one-shot **GraphRAG** search that fuses vector, graph and HippoRAG expansion into a single synthesis.<br/>
   Result: on a public financial-regulation benchmark, multi-hop strict answers went from **19 to 103 of 120** with no LLM in retrieval.
 
-- **[xgen-ontology-build](https://github.com/jinsoo96/js-ontology-build)** &nbsp;[![PyPI](https://img.shields.io/pypi/v/xgen-ontology-build?style=flat-square&label=PyPI&color=2B6CF6&labelColor=30363d)](https://pypi.org/project/xgen-ontology-build/)<br/>
+- **[xgen-ontology-build](https://github.com/jinsoo96/js-ontology-build)** &nbsp;[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/xgen-ontology-build/)<br/>
   Documents, tables and DB rows into a provenance-tracked **ontology**, LLM-free by default.<br/>
   Result: output diff **0** against the product pipeline on a **14,924-chunk** real corpus.
 
-- **[xgen-harness](https://github.com/jinsoo96/xgen-harness-executor)** &nbsp;[![PyPI](https://img.shields.io/pypi/v/xgen-harness?style=flat-square&label=PyPI&color=2B6CF6&labelColor=30363d)](https://pypi.org/project/xgen-harness/)<br/>
+- **[xgen-harness](https://github.com/jinsoo96/xgen-harness-executor)** &nbsp;[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/xgen-harness/)<br/>
   10-stage state-machine **agent execution engine** that compiles canvas agents into PyPI · npm · MCP packages.<br/>
   Result: under the same strict-citation judge, scores that split between 0 and full marks settled to **0.70 – 0.98**.
 
@@ -67,7 +67,7 @@ Statistics, machine learning and deep learning research from my M.S. work, mainl
   Development-automation harness that lands natural-language requests on exact files and lines through a code ontology of 23 repos.<br/>
   Result: **R@10 0.837** on 2,827 human-merged MRs.
 
-- **[Agethos](https://github.com/jinsoo96/agethos)** &nbsp;[![PyPI](https://img.shields.io/pypi/v/agethos?style=flat-square&label=PyPI&color=2B6CF6&labelColor=30363d)](https://pypi.org/project/agethos/)<br/>
+- **[Agethos](https://github.com/jinsoo96/agethos)** &nbsp;[![PyPI](assets/badges/pypi.svg)](https://pypi.org/project/agethos/)<br/>
   Personality, memory and emotion for LLM agents, with a draft · judge · repair persona compiler.<br/>
   Result: persona compile fidelity **0.930**.
 
@@ -78,34 +78,34 @@ Also building: [missile-studio](https://github.com/jinsoo96/missile-studio) · [
 <div align="center">
 
 **Languages**<br/>
-![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-30363d?style=flat-square&logo=postgresql&logoColor=white)
+![Python](assets/badges/python.svg)
+![TypeScript](assets/badges/typescript.svg)
+![JavaScript](assets/badges/javascript.svg)
+![SQL](assets/badges/sql.svg)
 
 **AI & Data**<br/>
-![Claude API](https://img.shields.io/badge/Claude_API-30363d?style=flat-square&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-30363d?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-30363d?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-30363d?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-30363d?style=flat-square&logo=pandas&logoColor=white)
+![Claude API](assets/badges/claude-api.svg)
+![LangGraph](assets/badges/langgraph.svg)
+![PyTorch](assets/badges/pytorch.svg)
+![scikit-learn](assets/badges/scikit-learn.svg)
+![Pandas](assets/badges/pandas.svg)
 
 **Backend & Frontend**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-30363d?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-30363d?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-30363d?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](assets/badges/fastapi.svg)
+![PostgreSQL](assets/badges/postgresql.svg)
+![Next.js](assets/badges/nextjs.svg)
+![React](assets/badges/react.svg)
+![Tailwind](assets/badges/tailwind.svg)
 
 **DevOps & Infra**<br/>
-![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-30363d?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-30363d?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-30363d?style=flat-square&logo=gitlab&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-30363d?style=flat-square&logo=redis&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-30363d?style=flat-square&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-30363d?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
+![Docker](assets/badges/docker.svg)
+![Kubernetes](assets/badges/kubernetes.svg)
+![Jenkins](assets/badges/jenkins.svg)
+![GitLab](assets/badges/gitlab.svg)
+![Redis](assets/badges/redis.svg)
+![Cloudflare](assets/badges/cloudflare.svg)
+![Linux](assets/badges/linux.svg)
+![Git](assets/badges/git.svg)
 
 </div>
 
