@@ -27,23 +27,23 @@ Then I ship them into banking, capital and retail customers' On-premise environm
 
 **Ontology & Retrieval** · [notes](https://blog.js-96.com/series/ontology-engineering/)<br/>
 Turning documents, CSV files and relational databases into an ontology, and answering from it with the evidence attached.<br/>
-`Ontology modeling` `Build pipelines` `Incremental sync` `PostgreSQL graph store` `GraphRAG fusion` `BM25F · PPR · MMR ranking` `Citation tracking`
+<code>Ontology&nbsp;modeling</code> <code>Build&nbsp;pipelines</code> <code>Incremental&nbsp;sync</code> <code>PostgreSQL&nbsp;graph&nbsp;store</code> <code>GraphRAG&nbsp;fusion</code> <code>BM25F&nbsp;·&nbsp;PPR&nbsp;·&nbsp;MMR&nbsp;ranking</code> <code>Citation&nbsp;tracking</code>
 
 **Agent Engineering** · [notes](https://blog.js-96.com/series/agent-harness/)<br/>
 Designing the runtime around the model: when to judge, retry and stop, what to remember, and which tools to show.<br/>
-`Agent runtime design` `Judge · retry · termination policy` `Agent memory` `Context engineering` `Progressive tool disclosure` `MCP servers` `HITL approval` `OAuth 2.1 PKCE`
+<code>Agent&nbsp;runtime&nbsp;design</code> <code>Judge&nbsp;·&nbsp;retry&nbsp;·&nbsp;termination&nbsp;policy</code> <code>Agent&nbsp;memory</code> <code>Context&nbsp;engineering</code> <code>Progressive&nbsp;tool&nbsp;disclosure</code> <code>MCP&nbsp;servers</code> <code>HITL&nbsp;approval</code> <code>OAuth&nbsp;2.1&nbsp;PKCE</code>
 
 **LLM Evals** · [notes](https://blog.js-96.com/series/evaluation/)<br/>
 Comparing models and agents under fixed conditions, with gold sets and judges that return the same verdict on reruns.<br/>
-`Fixed gold sets` `LLM-as-a-Judge` `Controlled comparisons` `Verdict determinism` `RAGAS`
+<code>Fixed&nbsp;gold&nbsp;sets</code> <code>LLM-as-a-Judge</code> <code>Controlled&nbsp;comparisons</code> <code>Verdict&nbsp;determinism</code> <code>RAGAS</code>
 
 **Enterprise Delivery** · [notes](https://blog.js-96.com/series/fde/)<br/>
 Building, deploying and maintaining XGEN inside customer networks, including responses to security vulnerability assessments for bank customers.<br/>
-`Air-gapped k3s · Helm` `PII masking` `Guardrails` `Audit trails` `Vulnerability assessment response` `vLLM serving` `Dependency · SBOM review` `Next.js · FastAPI`
+<code>Air-gapped&nbsp;k3s&nbsp;·&nbsp;Helm</code> <code>PII&nbsp;masking</code> <code>Guardrails</code> <code>Audit&nbsp;trails</code> <code>Vulnerability&nbsp;assessment&nbsp;response</code> <code>vLLM&nbsp;serving</code> <code>Dependency&nbsp;·&nbsp;SBOM&nbsp;review</code> <code>Next.js&nbsp;·&nbsp;FastAPI</code>
 
 **Data Science**<br/>
 Statistics, machine learning and deep learning research from my M.S. work, mainly forecasting and prediction.<br/>
-`Time-series forecasting` `DLinear · TimeMixer ensembles` `ML prediction` `Feature importance` `Clustering` `Text mining`
+<code>Time-series&nbsp;forecasting</code> <code>DLinear&nbsp;·&nbsp;TimeMixer&nbsp;ensembles</code> <code>ML&nbsp;prediction</code> <code>Feature&nbsp;importance</code> <code>Clustering</code> <code>Text&nbsp;mining</code>
 
 ## Featured Projects
 
