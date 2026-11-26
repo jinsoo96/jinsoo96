@@ -8,11 +8,24 @@ I build ontology engines and GraphRAG search, and agent harnesses that own judgi
 Then I ship them into banking, capital and retail customers' On-premise environments and measure them there.
 
 <p>
+  <img alt="Agentic AI" src="assets/badges/kw-agentic-ai.svg" />
+  <img alt="Ontology" src="assets/badges/kw-ontology.svg" />
+  <img alt="GraphRAG" src="assets/badges/kw-graphrag.svg" />
+  <img alt="Agent Harness" src="assets/badges/kw-agent-harness.svg" />
+  <img alt="LLM Evals" src="assets/badges/kw-llm-evals.svg" />
+  <img alt="MCP" src="assets/badges/kw-mcp.svg" />
+  <img alt="FDE" src="assets/badges/kw-fde.svg" />
+  <img alt="Python" src="assets/badges/kw-python.svg" />
+  <img alt="Claude" src="assets/badges/kw-claude.svg" />
+</p>
+
+<p>
   <a href="https://blog.js-96.com"><img alt="Tech Blog" src="assets/badges/link-blog.svg" /></a>
   <a href="https://blog.js-96.com/cv/"><img alt="CV" src="assets/badges/link-cv.svg" /></a>
   <a href="https://www.linkedin.com/in/jinsoo-kim-942438301/"><img alt="LinkedIn" src="assets/badges/link-linkedin.svg" /></a>
   <a href="mailto:wlstn010203@gmail.com"><img alt="Gmail" src="assets/badges/link-gmail.svg" /></a>
   <a href="mailto:wlstn010203@khu.ac.kr"><img alt="KHU Mail" src="assets/badges/link-khu.svg" /></a>
+  <a href="https://github.com/jinsoo96"><img alt="GitHub" src="assets/badges/link-github.svg" /></a>
 </p>
 
 </div>
@@ -59,11 +72,11 @@ Statistics, machine learning and deep learning research from my M.S. work, mainl
   10-stage state-machine **agent execution engine** that compiles canvas agents into PyPI · npm · MCP packages.<br/>
   Result: under the same strict-citation judge, scores that split between 0 and full marks settled to **0.70 – 0.98**.
 
-- **[Jermes](https://github.com/jinsoo96/jermes)**<br/>
+- **[Jermes](https://github.com/jinsoo96/jermes)** &nbsp;![Python](assets/badges/python-flat.svg)<br/>
   Self-improving agent that promotes a procedure to a skill only when its gain reproduces on held-out runs.<br/>
   Result: cumulative accuracy **44.2% → 88.9%** over 190 user questions.
 
-- **[XGEN MAKER](https://github.com/jinsoo96/xgen-maker)**<br/>
+- **[XGEN MAKER](https://github.com/jinsoo96/xgen-maker)** &nbsp;![Python](assets/badges/python-flat.svg)<br/>
   Development-automation harness that lands natural-language requests on exact files and lines through a code ontology of 23 repos.<br/>
   Result: **R@10 0.837** on 2,827 human-merged MRs.
 
